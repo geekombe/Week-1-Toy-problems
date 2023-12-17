@@ -4,7 +4,7 @@
 
 # challenge descriptions
 
-## Challenge 1: Student Grade Generator  (Toy Problem)
+## Challenge 1: Student Grade Generator 
 
 The "Student Grade Generator" is a JavaScript function that calculates and assigns grades to student marks based on predefined criteria. Users are prompted to input student marks (between 0 and 100), and the function determines the corresponding grade (A, B, C, D, or E) as follows:
 
@@ -20,8 +20,17 @@ The function validates the input and calculates the grade.
 The calculated grade is displayed in the console.
 
 
-## challenge 2
-Description ...
+## Challenge 2: Speed Detector 
+Given the speed of a car as input, the function evaluates whether the car is exceeding the speed limit and calculates the corresponding demerit points based on the following rules:
+
+If the car's speed is less than or equal to 70 km/h, it prints "Ok," indicating compliance with the speed limit.
+For every 5 km/h above the speed limit (70 km/h), the function assigns one demerit point to the driver and prints the total number of demerit points.
+If the driver accumulates 12 or more demerit points, the function prints "License suspended."
+
+## usage 
+Call the speedDetector function and provide speed as an argument.
+The function evaluates whether the car is exceeding the speed limit and calculates the corresponding demerit points.
+If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points
 
 
 ## challenge 3

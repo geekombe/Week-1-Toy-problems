@@ -21,7 +21,7 @@ The calculated grade is displayed in the console.
 
 
 ## Challenge 2: Speed Detector 
-Given the speed of a car as input, the function evaluates whether the car is exceeding the speed limit and calculates the corresponding demerit points based on the following rules:
+Given the speed of a car as argument, the function evaluates whether the car is exceeding the speed limit and calculates the corresponding demerit points based on the following rules:
 
 If the car's speed is less than or equal to 70 km/h, it prints "Ok," indicating compliance with the speed limit.
 For every 5 km/h above the speed limit (70 km/h), the function assigns one demerit point to the driver and prints the total number of demerit points.
@@ -40,18 +40,26 @@ If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 k
 
 ## set-up instructions
 
-First, Fork this repository on https://github.com/geekombe/Week-1-Toy-problems.git to your local machine.
+First, Clone this repository on https://github.com/geekombe/Week-1-Toy-problems.git to your local machine.
 
-....
+Navigate to the project directory using the following command
+
+cd Week-1-Toy-problems
+
+Open the directory in your preferred code editor (e.g., in Visual Studio Code simply type 'code .' on your terminal ).
+
+Inside your code editor, locate the file containing one of the above mentioned functions.
+
+From there just follow the individual usage explanation mention after the Descriptions above.
+
 
 
 
 ## Technologies 
 - Javascript
-- HTML 
 
-
-License: @2023 Victor Njogu (geekombe) - Copyright
+# License:
+@2023 Victor Njogu (geekombe) - Copyright
 
 
 # contact Information:

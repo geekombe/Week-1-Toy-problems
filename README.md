@@ -1,6 +1,6 @@
 # Code Challenges 
 
-## Author : Victor Njogu 
+### Author : Victor Njogu 
 
 # challenge descriptions
 
@@ -33,8 +33,13 @@ E: Less than 40
 - If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points
 
 
-## challenge 3
-...
+## Challenge 3: Net Salary Calculator 
+This JavaScript program calculates an individual's net salary by inputting their basic salary and benefits. It computes PAYE (Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary, ensuring compliance with Kenyan tax and insurance regulations.
+
+## Usage
+- Call the calculateNetSalary()function and provide basicSalary and benefits as arguments.
+- The function calculates Payee, NHIF Deduction, NSSF Deduction and Net Salary.
+- The calculated Payee, NHIF Deduction, NSSF Deduction and Net Salary are displayed in the console.
 
 
 
